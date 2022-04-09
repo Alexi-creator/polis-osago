@@ -1,3 +1,3 @@
 # polis-osago
 
-http://polis-osago.alexandrapavlov.ru/
+alexi-creator.github.io/polis-osago/
